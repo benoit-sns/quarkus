@@ -1,10 +1,10 @@
 name: Sonarcloud Analysis
-#on:
-#  push:
-#    branches:
-#      - master
-#  pull_request:
-#    types: [opened, synchronize, reopened]
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    types: [opened, synchronize, reopened]
 jobs:
   build:
     name: Build
