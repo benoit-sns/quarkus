@@ -39,9 +39,9 @@
         <skipDocs>false</skipDocs>
         <skip.gradle.tests>false</skip.gradle.tests>
 
-        <sonar.projectKey>quarkusio_quarkus</sonar.projectKey>
-        <sonar.organization>quarkusio</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.projectKey>benoit-sns_quarkus</sonar.projectKey>
+  	<sonar.organization>frefrefre</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <modules>
